@@ -1,0 +1,9 @@
+{
+    "UsuarioController": {
+        "list": [1],      
+        "loginJSON": [],
+        "logout":[1,2],        
+        "getRoles":[],        
+        "checkEmail":[]
+    }
+}
